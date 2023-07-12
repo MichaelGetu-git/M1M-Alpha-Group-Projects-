@@ -65,11 +65,11 @@
     },
     {
       "id": 8,
-      "fullName": "mike getuut",
-      "email": "michaelgettu213@gmail.com",
+      "fullName": "mike getu",
+      "email": "michaelgetu21@gmail.com",
       "sex": "male",
       "age": "18",
-      "country": "tethiopiat",
+      "country": "Ehiopia",
       "password": "12345678"
     },
     {
@@ -88,7 +88,7 @@
       "sex": "male",
       "age": "45",
       "country": "ethiopia",
-      "password": "fuckoffwork"
+      "password": "learnoffwork"
     }
   ]
 }

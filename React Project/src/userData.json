@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "john.doe@gmail.com",
+      "password": "password123",
+      "sex": "Male",
+      "age": 20,
+      "country": "United States"
+    },
+    {
+      "id": 2,
+      "fullName": "Jane Smith",
+      "email": "jane.smith@yahoo.com",
+      "password": "securepass",
+      "sex": "Female",
+      "age": 19,
+      "country": "Canada"
+    },
+    {
+      "id": 3,
+      "fullName": "Alex Johnson",
+      "email": "alex.johnson@outlook.com",
+      "password": "pass1234",
+      "sex": "Male",
+      "age": 20,
+      "country": "Australia"
+    },
+    {
+      "id": 4,
+      "fullName": "Sarah Lee",
+      "email": "sarah.lee@gmail.com",
+      "password": "password1234",
+      "sex": "Female",
+      "age": 20,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 5,
+      "fullName": "Michael Brown",
+      "email": "michael.brown@aastu.edu.et",
+      "password": "pass4321",
+      "sex": "Male",
+      "age": 19,
+      "country": "Ethiopia"
+    },
+    {
+      "id": 6,
+      "fullName": "Emily Davis",
+      "email": "emily.davis@gmail.com",
+      "password": "pass5678",
+      "sex": "Female",
+      "age": 20,
+      "country": "France"
+    },
+    {
+      "id": 7,
+      "fullName": "Daniel Wilson",
+      "email": "daniel.wilson@outlook.com",
+      "password": "pass9876",
+      "sex": "Male",
+      "age": 19,
+      "country": "Spain"
+    },
+    {
+      "id": 8,
+      "fullName": "mike getuut",
+      "email": "michaelgettu213@gmail.com",
+      "sex": "male",
+      "age": "18",
+      "country": "tethiopiat",
+      "password": "12345678"
+    },
+    {
+      "id": 9,
+      "fullName": "alem",
+      "email": "alem@gmail.com",
+      "sex": "male",
+      "age": "25",
+      "country": "africa",
+      "password": "123456789"
+    },
+    {
+      "id": 10,
+      "fullName": "yared alem",
+      "email": "yaredalem@gmail.com",
+      "sex": "male",
+      "age": "45",
+      "country": "ethiopia",
+      "password": "fuckoffwork"
+    }
+  ]
+}
